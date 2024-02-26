@@ -1,0 +1,12 @@
+Розыгрыш начался! Mon Feb 26 17:21:55 MSK 2024
+1: Dog
+2: PinkRabbit
+3: WhiteRabbit
+4: Panda
+5: Snake
+6: GreyRabbit
+7: Dog
+8: Bat
+9: Bat
+10: Cat
+Розыгрыш закончился! Mon Feb 26 17:21:55 MSK 2024
